@@ -1,10 +1,18 @@
-Imp Commands:
+//Imp Commands//:
 
-1.git init: Initializes local repository for git
+1. git init: Initializes local repository for git
 
 2. git add: 
 
 2.1 git add . ( Adds all file in given dir to staging area )
 2.2 git add --all ( Adds all file in given dir to staging area ) 
 2.3 git add file1 file2 ( Adds 2 files to the staging area )
-	    
+
+
+3. git commit -m "first commit"
+
+4. git branch -M main ( Adds main branch)
+
+5. git remote add origin https://github.com/Gaurav-Chavan/Git_Training.git ( Initializes remote repository with alias origin)
+
+6. git push -u origin main	    

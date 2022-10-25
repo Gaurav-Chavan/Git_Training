@@ -1,0 +1,10 @@
+Imp Commands:
+
+1.git init: Initializes local repository for git
+
+2. git add: 
+
+2.1 git add . ( Adds all file in given dir to staging area )
+2.2 git add --all ( Adds all file in given dir to staging area ) 
+2.3 git add file1 file2 ( Adds 2 files to the staging area )
+	    

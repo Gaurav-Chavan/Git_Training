@@ -1,0 +1,13 @@
+1. git branch ( Get list of Branches)
+
+2. git branch branch_name ( Create a new branch from selected branch)
+
+3. git checkout branch_name ( Switch to new branch )
+
+4. git checkout -b branch_name ( Create + Switch to new branch )
+
+5. git branch -m < branch_name > < branch_name1 > ( Renaming branch )
+
+6. git branch -m < branch_name1 > ( Renaming existing branch )
+
+7.  git push --set-upstream origin staging ( Pushes local branch in remote repos branch)

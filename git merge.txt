@@ -1,0 +1,8 @@
+Used to merge changes from one branch to another branch
+
+1. git checkout Testing ( sets Testing as current branch)
+
+2. git merge main ( merges changes from main into Testing branch)
+
+3. git push origin Testing ( push these changes into remote repository)
+

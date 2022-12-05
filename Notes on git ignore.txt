@@ -1,0 +1,19 @@
+Git ignore ignores certain file extensions while commiting changes
+
+
+for that we need to have `.gitignore` file. This file will contain the extensions which will be ignored while
+commiting changes.
+
+Custom File names or extensions can also be added in this file, example
+
+1. ABC.txt --> will ignore this file while commiting.
+
+2 .*.txt --> will ignore all the txt files while commiting.
+
+
+New commands
+ls -la --> will show .gitignore file in file list
+
+cat abc.txt --> will show contents of abc.txt
+
+
